@@ -25,10 +25,3 @@ end
 def using_concat(array, arrays)
   array.concat(arrays)
 end
-
-def using_insert(array, string)
-  array.insert(string, 4)
-
-def using_uniq(array)
-  array.uniq
-end
